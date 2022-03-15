@@ -13,4 +13,4 @@ Projeto feito usando o framework React, com o intuito de treinar e desenvolver o
   <li>Também se usou styled-components para estilizar alguns componentes de forma individual para deixar o código mais legível e evitar que outros componentes sejam modificados de forma indevida o seus estilos.</li>
 </ul>
 <h3>Link do projeto:</h3>
-<a href="#">clique aqui<a>
+<a href="https://rick-morty-api22.netlify.app">clique aqui<a>
